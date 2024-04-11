@@ -10,17 +10,17 @@
 
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença">Licença</a>
+  <a href="#-autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
 </p>
 
 ### 💻 Sobre o projeto
 Este projeto contém meu currículo desenvolvido em Angular. Utilizei componentes para organizar as informações e as tecnologias básicas e dinâmicas como HTML e CSS para estilizar o currículo.
 
-### Instalação
+### 🔧 Instalação
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
@@ -53,7 +53,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Angular CLI 17.2.1
 - Node.js 20.9.0
 
-### Autor
+### ✒️ Autor
   
 <div style="overflow: hidden;">
   <a  href="https://github.com/muriisantuss">
@@ -69,6 +69,6 @@ Conheça mais sobre mim e entre em contato:
 [![Instagram Badge](https://img.shields.io/badge/-Santuuss__-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/santuuss_/) 
 [![Gmail Badge](https://img.shields.io/badge/-muriisantuss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:muriisantuss@gmail.com)
 
-### Licença
+### 📄 Licença
 
 Este projeto está sob a [Licença MIT](https://opensource.org/licenses/MIT).
