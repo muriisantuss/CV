@@ -1,27 +1,74 @@
-# Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
+<div align="center">
+  <div style="border-radius: 16px; overflow: hidden;">
+      <img src="https://github.com/muriisantuss/CV/assets/151096774/e7c89d8d-ee48-4617-a22b-9cd972c88824" alt="cvGift">
+  </div>
+  <h1></h1>
+  <p>Um currículo desenvolvido em Angular, utilizando componentes, empregando <br>
+    tecnologias básicas e dinâmicas como HTML e CSS.</p>
+</div>
 
-## Development server
+<p align="center">
+  <a href="#-sobre-o-projeto">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### 💻 Sobre o projeto
+Este projeto contém meu currículo desenvolvido em Angular. Utilizei componentes para organizar as informações e as tecnologias básicas e dinâmicas como HTML e CSS para estilizar o currículo.
 
-## Code scaffolding
+### Instalação
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Clone este repositório para o seu computador:
+   ```bash
+   git clone https://github.com/muriisantuss/CV.git
 
-## Build
+### 🎲 Como Usar
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Após a instalação das dependências, você pode iniciar o servidor de desenvolvimento do Angular para visualizar o currículo no navegador.
 
-## Running unit tests
+1. Navegue até o diretório do projeto:
+    ```bash
+   cd CV
+2. Instale as dependências do projeto usando npm:
+   ```bash
+   npm install
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+3. Execute o seguinte comando:
+    ```bash
+   ng serve -o
 
-## Running end-to-end tests
+Isso abrirá automaticamente o seu navegador padrão e carregará o currículo. Qualquer alteração que você fizer nos arquivos do projeto será automaticamente recarregada no navegador.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### 🛠 Tecnologias
 
-## Further help
+As seguintes ferramentas foram usadas na construção do projeto:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Angular CLI 17.2.1
+- Node.js 20.9.0
+
+### Autor
+  
+<div style="overflow: hidden;">
+  <a  href="https://github.com/muriisantuss">
+    <img src="https://avatars.githubusercontent.com/u/151096774?s=400&u=96947794658090cecc9096c64b632e53dc5f63ee&v=4" width="130px"/>
+</a> 
+    <br />
+
+  **Murilo dos Santos**
+  
+Conheça mais sobre mim e entre em contato:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Murilo-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muriii/)
+[![Instagram Badge](https://img.shields.io/badge/-Santuuss__-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/santuuss_/) 
+[![Gmail Badge](https://img.shields.io/badge/-muriisantuss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:muriisantuss@gmail.com)
+
+### Licença
+
+Este projeto está sob a [Licença MIT](https://opensource.org/licenses/MIT).
